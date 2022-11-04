@@ -3,7 +3,7 @@ import requests
 
 class QueryClass:
     url = "https://www.bet365.com/#/HO/"
-    #url = "http://localhost:8080/api/books_list"
+    # url = "http://localhost:8080/api/books_list"
 
     # header = {
     #     # 'host': 'http://localhost:8080',
